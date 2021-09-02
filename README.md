@@ -7,7 +7,7 @@ The purpose of this project is to practice web scraping using Beautiful Soup and
 
 # Description of Files
 
-## [Olympic Analysis](https://github.com/knolasco/Olympic_Running_Analysis/blob/main/KevinNolasco_MCIS535_Project.ipynb)
+## [Olympic Analysis](https://github.com/knolasco/Olympic_Running_Analysis/blob/main/Olympic_Running_Analysis.ipynb)
 This jupyter notebook contains the work to scrape, clean, and analyze the olympic data from Olympedia.org.
 
 ## [Data](https://github.com/knolasco/Olympic_Running_Analysis/tree/main/data)
